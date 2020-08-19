@@ -1,0 +1,14 @@
+{
+  "FirstName": "Clark",
+  "LastName": "Kent",
+  "DateOfBirth": "1997-04-18",
+  "HeroName": "Superman",
+  "Children": [
+    {
+      "FirstName": "Jon Kent",
+      "LastName": "Kent",
+      "DateOfBirth": null,
+      "HeroName": "Superboy"
+    }
+  ]
+}
